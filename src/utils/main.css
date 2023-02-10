@@ -324,9 +324,11 @@
 .slideshow_controls_chevron {
     width: 50px !important;
     height: auto !important;
-    font-size: 25px;
+    font-size: 90px;
     opacity: .5;
-    cursor: pointer
+    cursor: pointer;
+    color: #fff;
+    margin:1%;
 }
 
 .slideshow_controls_chevron:hover {
